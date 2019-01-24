@@ -1,0 +1,19 @@
+40        Nombre de pas d ans la trajectoire
+96        Nombre d'atomes
+256       Nombre de Wannier
+5.6       Parametre d'Ewald (largeur des Gaussiennes)
+10.6      Rcut (la moitie de la taille de boite - unites atomiques)
+1.0d-7    Convergence d'Ewald 1
+0.1d0     Convergence d'Ewald 2
+0.001     Intensite du champ applique (unites atomiques)
+1.000000000 0.0000000000E+00 0.0000000000E+00   Parametres de boite
+0.0000000000E+00 1.000000000 0.0000000000E+00
+0.0000000000E+00 0.0000000000E+00 1.000000000
+21.3982   Longueur selon x
+21.3982   Longueur selon y
+21.3982   Longueur selon z
+1.5       Rcut pour l'attribution des Wannier
+IONS+CENTERS.xyz-0
+IONS+CENTERS.xyz-x
+IONS+CENTERS.xyz-y
+IONS+CENTERS.xyz-z
